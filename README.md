@@ -15,3 +15,4 @@ Step By Step Command Line On Termux :
 8. masukin kode verifikasi(OTP)
 9. pilih kode voucher
 10. repeat(ulangi seperti biasa)
+ untuk selengkapnya tentang tutorial cek di https://www.kumpulanremaja.com/2019/11/cara-mendapatkan-voucher-go-food-gratis-gojek.html
